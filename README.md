@@ -31,7 +31,8 @@ An interactive dashboard is built using Streamlit to visualize and explore the r
 
   * Acceleration magnitude
   * Gyroscope magnitude
- *Dataset has been downloaded from https://www.kaggle.com/datasets/outofskills/driving-behavior?resource=download
+
+*Dataset has been downloaded from https://www.kaggle.com/datasets/outofskills/driving-behavior?resource=download
 
 ---
 
